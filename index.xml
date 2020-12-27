@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Moonlit Solutions</title>
+    <title>Moonlit Playground</title>
     <link>https://moonlitplayground.github.io/</link>
-    <description>Recent content on Moonlit Solutions</description>
+    <description>Recent content on Moonlit Playground</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
     
