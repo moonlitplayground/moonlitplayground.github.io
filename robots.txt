@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://moonlitplayground.github.io/sitemap.xml
