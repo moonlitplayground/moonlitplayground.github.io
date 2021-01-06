@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tab on Moonlit Playground</title>
+    <link>https://moonlitplayground.github.io/tags/tab/</link>
+    <description>Recent content in tab on Moonlit Playground</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
+    
+	<atom:link href="https://moonlitplayground.github.io/tags/tab/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bezos</title>
+      <link>https://moonlitplayground.github.io/posts/bezos/bezos/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://moonlitplayground.github.io/posts/bezos/bezos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kwati</title>
+      <link>https://moonlitplayground.github.io/posts/kwati/kwati/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://moonlitplayground.github.io/posts/kwati/kwati/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
