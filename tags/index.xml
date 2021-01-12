@@ -11,20 +11,20 @@
     
     
     <item>
-      <title>second</title>
-      <link>https://moonlitplayground.github.io/tags/second/</link>
+      <title>Data Visualization</title>
+      <link>https://moonlitplayground.github.io/tags/data-visualization/</link>
       <pubDate>Mon, 04 Jan 2021 11:30:03 +0000</pubDate>
       
-      <guid>https://moonlitplayground.github.io/tags/second/</guid>
+      <guid>https://moonlitplayground.github.io/tags/data-visualization/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>first</title>
-      <link>https://moonlitplayground.github.io/tags/first/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <title>Google Data Studio</title>
+      <link>https://moonlitplayground.github.io/tags/google-data-studio/</link>
+      <pubDate>Mon, 04 Jan 2021 11:30:03 +0000</pubDate>
       
-      <guid>https://moonlitplayground.github.io/tags/first/</guid>
+      <guid>https://moonlitplayground.github.io/tags/google-data-studio/</guid>
       <description></description>
     </item>
     
@@ -34,6 +34,15 @@
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
       <guid>https://moonlitplayground.github.io/tags/tab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tableau</title>
+      <link>https://moonlitplayground.github.io/tags/tableau/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://moonlitplayground.github.io/tags/tableau/</guid>
       <description></description>
     </item>
     

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Moonlit Playground</title>
-    <link>https://moonlitplayground.github.io/posts/</link>
-    <description>Recent content in Blog on Moonlit Playground</description>
+    <title>Data Visualization on Moonlit Playground</title>
+    <link>https://moonlitplayground.github.io/tags/data-visualization/</link>
+    <description>Recent content in Data Visualization on Moonlit Playground</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 04 Jan 2021 11:30:03 +0000</lastBuildDate>
     
-	<atom:link href="https://moonlitplayground.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://moonlitplayground.github.io/tags/data-visualization/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
